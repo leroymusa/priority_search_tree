@@ -1,0 +1,1 @@
+The PrioritySearchTree class represents a data structure for building Priority Search Trees (PST). It provides methods to construct a PST from a set of points, visualize the resulting complete binary tree, and the transformed PST.

@@ -1,11 +1,3 @@
-/**********************************************************
- * EECS2101A: Fundamentals of Data Structures, Fall 2023
- * Assignment 3, Problem 3 Helper: PSTvisual.java
- * Student Name: Leroy-David Musa
- * Student EECS account: leroy7
- * Student ID number: 219198761
- **********************************************************/
-package A3;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

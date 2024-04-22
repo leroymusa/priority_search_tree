@@ -1,13 +1,3 @@
-/**********************************************************
- * EECS2101A: Fundamentals of Data Structures, Fall 2023
- * Assignment 3, Problem 3: PrioritySearchTree.java
- * Student Name: Leroy-David Musa
- * Student EECS account: leroy7
- * Student ID number: 219198761
- **********************************************************/
-
- package A3;
-
  /**
   * The PrioritySearchTree class represents a data structure for building Priority Search Trees (PST).
   * It provides methods to construct a PST from a set of points, and visualize the resulting complete binary tree
